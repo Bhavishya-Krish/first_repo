@@ -273,7 +273,7 @@
 #     print(player.title())
 
 #############################
-my_foods = ['pizza', 'falafel', 'carrot cake']
+my_foods = ['pizza','carrot cake']
 friend_foods = my_foods[:]#this is use to make separate copy list of another person now if we add anything in myfood it wil not include in myfriend food automatically .
 
 my_foods.append("canoli")
@@ -283,4 +283,6 @@ print("My favorite foods are:")
 print(my_foods)
 
 print("\nMy friend's favorite foods are:")
+
 print(friend_foods)
+
